@@ -1,0 +1,7 @@
+{
+  "name": "Expense Tracker Pro",
+  "description": "A comprehensive expense tracking application that allows users to manage their expenses efficiently with receipt scanning, categorization, and report generation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
